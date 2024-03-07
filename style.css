@@ -1,0 +1,9 @@
+@media screen and (min-width: 1024px) {
+    .header section div{
+        width: 30%;
+        padding: 2.5rem;
+    }
+    section img{
+        width: 30%;
+    }
+}
